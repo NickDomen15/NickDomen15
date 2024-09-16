@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick Domenico
-- 👀 I’m interested in Java programming, Pokemon, and Persona
+- 👀 I’m interested in Java programming, Pokemon, Splatoon, and Persona
 - 🌱 I’m currently a Computer Science major at Stockton University
 - 📫 How to reach me: domenicn@go.stockton.edu
 
